@@ -6,3 +6,4 @@ This is the homepage.
 
 **Bold text**
 
+[contact](../about/contact.md)
