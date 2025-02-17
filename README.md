@@ -2,3 +2,7 @@
 
 
 This is the homepage.
+
+
+**Bold text**
+
