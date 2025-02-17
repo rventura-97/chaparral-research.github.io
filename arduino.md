@@ -1,3 +1,3 @@
 # Arduino Homepage
 
-[homepage](../about/contact)
+[homepage](../about/contact.md)
